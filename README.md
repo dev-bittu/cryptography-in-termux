@@ -6,7 +6,7 @@ Follow these steps to set up the cryptography in Termux on your Android device:
 
 ``If you just want to install cryptography for programming.
 Install python-cryptography from pkg or apt. But if you have virtual environment or a project demands a specific version of cryptography, it fails.
-Then the only way to follow the steps mentioned below 👇.
+Then the only way is to follow the steps mentioned below 👇.
 ``
 
 ### Quick Install
