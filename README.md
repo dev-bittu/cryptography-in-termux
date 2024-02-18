@@ -28,8 +28,14 @@ pkg update -y && pkg upgrade -y
 ```
 ### Step 3: Install Required Packages
 1. Install essential packages for cryptography operations:
+
+To install gcc-11, it is necessary to install tur-repo:
 ```bash
-pkg install git python3 rust tur-repo gcc-11 binutils-is-llvm -y
+pkg install tur-repo -y
+```
+Now, install required packages:
+```bash
+pkg install git python3 rust gcc-11 binutils-is-llvm -y
 ```
 
 ### Step 4: Export variables
