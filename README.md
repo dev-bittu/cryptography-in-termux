@@ -12,11 +12,12 @@ Then the only way is to follow the steps mentioned below 👇.
 ### Quick Install
 We have created a commands.sh file to streamline this process.
 Open termux and run this command:
-```bash```
+```bash
+```
 OR if you want to install it manually, follow the steps mentioned below.
 
 ### Step 1: Install Termux
-1. Install (Termux)[https://f-droid.org/en/packages/com.termux/] from fdroid (latest).
+1. Install [Termux](https://f-droid.org/en/packages/com.termux/) from fdroid (latest).
 2. Open the installed Termux application.
 
 ### Step 2: Update Termux
