@@ -13,6 +13,7 @@ Then the only way is to follow the steps mentioned below 👇.
 We have created a commands.sh file to streamline this process.
 Open termux and run this command:
 ```bash
+curl -s https://raw.githubusercontent.com/dev-bittu/cryptography-in-termux/main/commands.sh | bash
 ```
 OR if you want to install it manually, follow the steps mentioned below.
 
@@ -23,7 +24,7 @@ OR if you want to install it manually, follow the steps mentioned below.
 ### Step 2: Update Termux
 1. Run the following command in Termux:
 ```bash
-pkg update -y && pkg upgrade -y 
+pkg update -y && pkg upgrade -y
 ```
 ### Step 3: Install Required Packages
 1. Install essential packages for cryptography operations:
